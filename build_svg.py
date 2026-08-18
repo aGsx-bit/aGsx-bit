@@ -74,7 +74,7 @@ def art_svg(grid):
                 f'{escape("".join(run))}</tspan>')
             x = j
             
-    return ('<g transform="translate({0},{1}) scale({2})" opacity="0.55">\n'
+    return ('<g transform="translate({0},{1}) scale({2})">\n'
             '<rect x="0" y="0" width="792" height="1050" fill="{3}" rx="16"/>\n'
             '<text font-family="\'JetBrains Mono\',Consolas,monospace" font-size="8px">{4}</text>\n</g>').format(
                 ART_X, ART_Y, ART_SCALE, '#0a0e0f', '\n'.join(parts))

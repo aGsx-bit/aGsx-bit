@@ -15,7 +15,7 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="1300px" height="590px" fill="#0a0e0f" rx="15"/>
-<g transform="translate(15,25) scale(0.5)" opacity="0.55">
+<g transform="translate(15,25) scale(0.5)">
 <rect x="0" y="0" width="792" height="1050" fill="#0a0e0f" rx="16"/>
 <text font-family="'JetBrains Mono',Consolas,monospace" font-size="8px"><tspan x="20" y="20" fill="rgb(7,6,9)">"</tspan>
 <tspan x="28" y="20" fill="rgb(8,7,9)">"</tspan>
