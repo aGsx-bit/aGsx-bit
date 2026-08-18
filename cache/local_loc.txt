@@ -1,0 +1,5 @@
+# Local (non-GitHub) lines of code snapshot, written by count_local.py
+# Format: total non-blank lines, additions since last scan, deletions since last scan
+2115826
+0
+0

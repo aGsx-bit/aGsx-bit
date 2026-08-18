@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+preview.html
+preview_*.png
+pv_*.png
+cache/excludes_local.txt
